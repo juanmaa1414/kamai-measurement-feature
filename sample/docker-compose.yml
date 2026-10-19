@@ -1,0 +1,8 @@
+services:
+  kamai-sample:
+    build: .
+    image: kamai-dashboard-sample:0.1.0
+    container_name: kamai-dashboard-sample
+    ports:
+      - "3210:80"
+    restart: unless-stopped
