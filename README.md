@@ -2,7 +2,7 @@
 
 Material de la prueba técnica de Kamai: especificación en formato OpenSpec y muestra visual del dashboard.
 
-Además, hay un documento provisional con las decisiones que yo fui pensando y buscando posibles mejores alternativas, ya sea googleando, viendo casos similares, y también conversando con el agente. Todo analizando anteriormente antes de iniciar OpenSpec: [draft_decisions_español.md](draft_decisions_español.md) así este ya podía trabajar en las specs con menos dudas y menos ambigüedades.
+Además, hay un documento provisional con las decisiones en que yo fui pensando y buscandoles mejores alternativas, ya sea googleando, viendo casos similares, y también conversando con el agente. Todo analizando anteriormente antes de iniciar OpenSpec: [draft_decisions_español.md](draft_decisions_español.md) así este ya podía trabajar en las specs con menos dudas y menos ambigüedades.
 
 ## Levantar la muestra con un comando
 
