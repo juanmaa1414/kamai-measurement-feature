@@ -1,4 +1,4 @@
-# Kamai — Prueba técnica
+# Kamai - Prueba técnica
 
 Material de la prueba técnica de Kamai: especificación en formato OpenSpec y muestra visual del dashboard.
 
@@ -13,7 +13,7 @@ docker compose up -d
 
 La app queda servida en **http://localhost:3210**. La primera vez tarda unos segundos: el `Dockerfile` instala `node_modules` adentro del contenedor, así que la máquina host no necesita nada.
 
-Para detenerla:
+Para detenerla haz:
 
 ```bash
 cd sample
